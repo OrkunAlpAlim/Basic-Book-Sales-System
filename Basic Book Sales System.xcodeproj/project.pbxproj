@@ -41,7 +41,7 @@
 		23F7DD5F28E75A430062F5D2 = {
 			isa = PBXGroup;
 			children = (
-				23F7DD6A28E75A430062F5D2 /* Basic Book Sales System */,
+				23F7DD6A28E75A430062F5D2 /* Sources */,
 				23F7DD6928E75A430062F5D2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		23F7DD6A28E75A430062F5D2 /* Basic Book Sales System */ = {
+		23F7DD6A28E75A430062F5D2 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				23F7DD6B28E75A430062F5D2 /* main.c */,
 			);
-			path = "Basic Book Sales System";
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
